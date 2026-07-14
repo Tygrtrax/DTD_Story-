@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The clouds have finally given way for more than half a day. The intrepid programming student is feeling
 happier. Stella and Luke are in higher spirits and are being rather well behaved. Even though the cannot 
 seem to stop drifting towards fighting for control of the same toy (even though duplicates abound). We shall
 what this day brings to us.
+=======
+Let's completely change all this text and replace what I have in my original file using a git merge. 
+>>>>>>> side-plot
